@@ -1,3 +1,5 @@
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=fastAPISemillero20223&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=fastAPISemillero20223)
+[![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=fastAPISemillero20223)](https://sonarcloud.io/summary/new_code?id=fastAPISemillero20223)
 [![SonarCloud](https://sonarcloud.io/images/project_badges/sonarcloud-white.svg)](https://sonarcloud.io/summary/new_code?id=fastAPISemillero20223)
 # Comandos
 ## Instalar dependencias
